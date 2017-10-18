@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "da6a69eb0f6ed0b177e1b9b20a90212226067c91100a287ea73c80d835d7f5e6"
+            "sha256": "f7550d71dca25253ade79e2e95e73886e2a21938125ac0cd51a8faced9005638"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -45,6 +45,27 @@
             ],
             "version": "==2.3.0"
         },
+        "aiohttp-debugtoolbar": {
+            "hashes": [
+                "sha256:d0e17e5627261463a754f626f39ef3b5936a29f8a72751acdad2c0c8a32259ac",
+                "sha256:1c0a3f4f0a66480c19dd9f843262ef8ff2adec1b0e97452aebf2f31e49ab400b"
+            ],
+            "version": "==0.4.1"
+        },
+        "aiohttp-devtools": {
+            "hashes": [
+                "sha256:934214ab26973966fb1231e9e9bcc1f8a9045226c11ef3a6358e18895323792e",
+                "sha256:1fd74b5a732bebfb3eeea768376379182061877c12beff10703e5a8d4cb2bb43"
+            ],
+            "version": "==0.6"
+        },
+        "aiohttp-jinja2": {
+            "hashes": [
+                "sha256:4ad484f00e760efb1f02d2f82c5cc32c9cb759dfeb0d08e02119c08e941db1e3",
+                "sha256:44fedf0102ac632f0746f1bf72b5a71cf6326c9c2d13993c66789a838675924c"
+            ],
+            "version": "==0.14.0"
+        },
         "async-timeout": {
             "hashes": [
                 "sha256:d3a195a827b0f4068d1616ae2da04aac62e365d14f2b13dbc071f9feed9db4e2",
@@ -58,6 +79,33 @@
                 "sha256:84ab92ed1c4d4f16916e05906b6b75a6c0fb5db821cc65e70cbd64a3e2a5eaae"
             ],
             "version": "==3.0.4"
+        },
+        "click": {
+            "hashes": [
+                "sha256:29f99fc6125fbc931b758dc053b3114e55c77a6e4c6c3a2674a2dc986016381d",
+                "sha256:f15516df478d5a56180fbf80e68f206010e6d160fc39fa508b65e035fd75130b"
+            ],
+            "version": "==6.7"
+        },
+        "isort": {
+            "hashes": [
+                "sha256:cd5d3fc2c16006b567a17193edf4ed9830d9454cbeb5a42ac80b36ea00c23db4",
+                "sha256:79f46172d3a4e2e53e7016e663cc7a8b538bec525c36675fcfd2767df30b3983"
+            ],
+            "version": "==4.2.15"
+        },
+        "jinja2": {
+            "hashes": [
+                "sha256:2231bace0dfd8d2bf1e5d7e41239c06c9e0ded46e70cc1094a0aa64b0afeb054",
+                "sha256:ddaa01a212cd6d641401cb01b605f4a4d9f37bfc93043d7f760ec70fb99ff9ff"
+            ],
+            "version": "==2.9.6"
+        },
+        "markupsafe": {
+            "hashes": [
+                "sha256:a6be69091dac236ea9c6bc7d012beab42010fa914c459791d627dad4910eb665"
+            ],
+            "version": "==1.0"
         },
         "multidict": {
             "hashes": [
@@ -91,6 +139,13 @@
                 "sha256:cec40d461c2ef4e996c83a94553d646fe64facbc6c56e1f04ef26bdc69e1aa29"
             ],
             "version": "==0.9.1"
+        },
+        "watchgod": {
+            "hashes": [
+                "sha256:d34e0ba0a7378dbd7f32862bbaeb89913c0413cec177ba3109f4e69e084d0368",
+                "sha256:af26c1b08e4dc5cf7a8c01db07541ec082b6b8e6dea206037450d091a7417d21"
+            ],
+            "version": "==0.0.2"
         },
         "yarl": {
             "hashes": [
